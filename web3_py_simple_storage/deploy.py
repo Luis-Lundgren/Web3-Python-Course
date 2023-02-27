@@ -1,3 +1,13 @@
+'''
+
+I generated this code by taking the Free Code Camp:
+Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
+links:
+Youtube: https://youtu.be/M576WGiDBdQ
+GitHub: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
+'''
+
 import json
 from web3 import Web3
 import os
